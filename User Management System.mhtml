@@ -1,0 +1,37 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/
+Subject: User Management System
+Date: Sun, 30 Jun 2024 18:16:29 +0530
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--P4CS0djF3ipWmmACNmYc2B7mxlG1st8ooiPmHSNpeo----"
+
+
+------MultipartBoundary--P4CS0djF3ipWmmACNmYc2B7mxlG1st8ooiPmHSNpeo----
+Content-Type: text/html
+Content-ID: <frame-3414B91EBFF5DCF01CC480DCBED107BF@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/
+
+<!DOCTYPE html><html><head><meta http-equiv=3D"Content-Type" content=3D"tex=
+t/html; charset=3DUTF-8">
+    <title>User Management System</title>
+    <link rel=3D"stylesheet" type=3D"text/css" href=3D"http://localhost:300=
+0/styles.css">
+</head>
+<body>
+    <h1>Welcome to User Management System!</h1>
+    <div id=3D"app"></div>
+   =20
+
+
+</body></html>
+------MultipartBoundary--P4CS0djF3ipWmmACNmYc2B7mxlG1st8ooiPmHSNpeo----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/styles.css
+
+@charset "utf-8";
+=0A
+------MultipartBoundary--P4CS0djF3ipWmmACNmYc2B7mxlG1st8ooiPmHSNpeo------
